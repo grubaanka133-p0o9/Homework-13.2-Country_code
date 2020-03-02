@@ -1,0 +1,5 @@
+PL;Poland;38000000
+AQ;Antarctica;4400
+DM;Dominica;73925
+EG;Egypt;97500000
+IT;Italy;60480000
